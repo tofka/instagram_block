@@ -1,0 +1,10 @@
+; $Id$
+name = Instagram Block	
+description = Visar instagrambilder
+package = rabash
+scripts[] = jquery.instagram.js
+core = 7.x
+configure = admin/config/content/instagram_block
+
+
+
